@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "alg-spectr-pam",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1e08fdbc-6d16-4183-a039-58832a78a72c",
+			"database_name": "alg-spectr-pam"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
